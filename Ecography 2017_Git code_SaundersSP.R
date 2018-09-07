@@ -5,7 +5,7 @@
 ##Authors: Saunders, SP, Ries, L, Oberhauser, KS, Thogmartin, WE, Zipkin, EF
 ##Data sources are proprietary. Please contact authors for more information
 ##Note: only monarch observations were used from datasets of all butterfly
-##species observations in Ohio and Illinois monitoring networks
+##species observations in Illinois monitoring networks
 ############################################################################
 
 #load libraries
